@@ -19,6 +19,7 @@ a collection of leetcode problem solutions. pubished from leetcode to github via
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranavjothivel/leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/pranavjothivel/leetcode/tree/master/0058-length-of-last-word) |
 ## Stack
 |  |
 | ------- |
