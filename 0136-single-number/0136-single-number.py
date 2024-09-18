@@ -4,9 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        solution = 0
+        s = 0
         # for num in nums:
         #     solution = num ^ solution
-        for num in nums:
-            solution ^= num
-        return solution
+        for i in nums:
+            s ^= i
+        return s
