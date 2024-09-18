@@ -26,6 +26,7 @@ a collection of my LeetCode solutions. pubished from leetcode to github via leet
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranavjothivel/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/pranavjothivel/leetcode/tree/master/0058-length-of-last-word) |
+| [3379-score-of-a-string](https://github.com/pranavjothivel/leetcode/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
