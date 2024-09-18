@@ -5,6 +5,8 @@ class Solution(object):
         :rtype: int
         """
         solution = 0
+        # for num in nums:
+        #     solution = num ^ solution
         for num in nums:
-            solution = num ^ solution
+            solution ^= num
         return solution
