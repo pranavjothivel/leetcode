@@ -11,6 +11,7 @@ a collection of leetcode problem solutions. pubished from leetcode to github via
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranavjothivel/leetcode/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,12 @@ a collection of leetcode problem solutions. pubished from leetcode to github via
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranavjothivel/leetcode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
