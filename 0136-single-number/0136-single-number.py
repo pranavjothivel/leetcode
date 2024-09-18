@@ -1,6 +1,12 @@
 class Solution(object):
     def singleNumber(self, nums):
-        res=0
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        s = 0
+        # for num in nums:
+        #     solution = num ^ solution
         for i in nums:
-            res^=i
-        return res
+            s ^= i
+        return s
