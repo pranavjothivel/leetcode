@@ -1,5 +1,7 @@
-# leetcode
-a collection of leetcode problem solutions. pubished from leetcode to github via leethub.
+# LeetCode
+a collection of my LeetCode solutions. pubished from leetcode to github via leethub.
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/pranavjothivel)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
