@@ -13,6 +13,7 @@ a collection of my LeetCode solutions. pubished from leetcode to github via leet
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranavjothivel/leetcode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/pranavjothivel/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3324-split-the-array](https://github.com/pranavjothivel/leetcode/tree/master/3324-split-the-array) |
 ## Hash Table
@@ -41,4 +42,8 @@ a collection of my LeetCode solutions. pubished from leetcode to github via leet
 |  |
 | ------- |
 | [3324-split-the-array](https://github.com/pranavjothivel/leetcode/tree/master/3324-split-the-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/pranavjothivel/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
