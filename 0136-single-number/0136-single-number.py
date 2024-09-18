@@ -4,9 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        s = 0
-        # for num in nums:
-        #     solution = num ^ solution
-        for i in nums:
-            s ^= i
-        return s
+        solution = 0
+        for num in nums:
+            solution = num ^ solution
+        return solution
+        # most optimal and time-efficient solution
