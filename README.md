@@ -1,8 +1,7 @@
 # LeetCode
-a collection of my LeetCode solutions. pubished from leetcode to github via leethub.
+a collection of my LeetCode solutions. published from leetcode to github via leethub.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/pranavjothivel)
-<br>
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
