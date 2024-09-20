@@ -14,8 +14,8 @@ class Solution {
         
         for (int i = 0; i < size; i++) {
             if (nums[i] != 0) {
-                array[index++] = nums[i];
-                // index++;
+                array[index] = nums[i];
+                index++;
             }
         }
         
