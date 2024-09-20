@@ -18,6 +18,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0136-single-number](https://github.com/pranavjothivel/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pranavjothivel/leetcode/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/pranavjothivel/leetcode/tree/master/0283-move-zeroes) |
 | [3324-split-the-array](https://github.com/pranavjothivel/leetcode/tree/master/3324-split-the-array) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0027-remove-element](https://github.com/pranavjothivel/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranavjothivel/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/pranavjothivel/leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
