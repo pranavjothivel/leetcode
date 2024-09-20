@@ -10,7 +10,7 @@ class Solution {
         }
 
         for (int i = counter; i < nums.length; i++) {
-            // counter is the number of zeroes in the array
+            // counter is the number of non-zeroes in the array
             // and the starting position from which to fill zeroes
             nums[i] = 0;
         }
