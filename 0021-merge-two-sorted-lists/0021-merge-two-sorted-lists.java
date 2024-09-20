@@ -30,11 +30,9 @@ class Solution {
 
         if (list1 != null) {
             cursor.next = list1;
-            list1 = list1.next;
         }
-        else if (list2 != null) {
+        else {
             cursor.next = list2;
-            list2 = list2.next;
         }
 
         return mergedList.next;
