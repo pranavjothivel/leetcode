@@ -76,6 +76,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pranavjothivel/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/pranavjothivel/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
