@@ -64,4 +64,12 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pranavjothivel/leetcode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pranavjothivel/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pranavjothivel/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
