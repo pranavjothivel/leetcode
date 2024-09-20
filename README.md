@@ -9,6 +9,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pranavjothivel/leetcode/tree/master/0009-palindrome-number) |
+| [2556-convert-the-temperature](https://github.com/pranavjothivel/leetcode/tree/master/2556-convert-the-temperature) |
 ## Array
 |  |
 | ------- |
