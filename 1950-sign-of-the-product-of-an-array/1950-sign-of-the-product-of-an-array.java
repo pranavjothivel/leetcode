@@ -9,7 +9,6 @@ class Solution {
                 return 0;
             }
         }
-        System.gc();
         return productSign;
     }
 }
