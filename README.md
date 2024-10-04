@@ -9,6 +9,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pranavjothivel/leetcode/tree/master/0009-palindrome-number) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/pranavjothivel/leetcode/tree/master/2556-convert-the-temperature) |
 ## Array
 |  |
@@ -20,6 +21,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pranavjothivel/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/pranavjothivel/leetcode/tree/master/0283-move-zeroes) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/pranavjothivel/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3324-split-the-array](https://github.com/pranavjothivel/leetcode/tree/master/3324-split-the-array) |
 ## Hash Table
