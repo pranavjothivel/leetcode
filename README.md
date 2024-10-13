@@ -43,6 +43,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0058-length-of-last-word](https://github.com/pranavjothivel/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/pranavjothivel/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/pranavjothivel/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/pranavjothivel/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/pranavjothivel/leetcode/tree/master/0412-fizz-buzz) |
 | [1205-defanging-an-ip-address](https://github.com/pranavjothivel/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2128-reverse-prefix-of-word](https://github.com/pranavjothivel/leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -64,6 +65,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0234-palindrome-linked-list](https://github.com/pranavjothivel/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/pranavjothivel/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pranavjothivel/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/pranavjothivel/leetcode/tree/master/0392-is-subsequence) |
 | [2128-reverse-prefix-of-word](https://github.com/pranavjothivel/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2551-apply-operations-to-an-array](https://github.com/pranavjothivel/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
@@ -114,4 +116,8 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | ------- |
 | [0412-fizz-buzz](https://github.com/pranavjothivel/leetcode/tree/master/0412-fizz-buzz) |
 | [2551-apply-operations-to-an-array](https://github.com/pranavjothivel/leetcode/tree/master/2551-apply-operations-to-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/pranavjothivel/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
