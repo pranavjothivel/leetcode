@@ -10,6 +10,9 @@ class Solution {
         //     }
         // }
         // return false;
+        if (t.isEmpty() || t.length() < s.length()) {
+            return false;
+        }
         int sCtr = 0;
         int tCtr = 0;
         
