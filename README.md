@@ -9,6 +9,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pranavjothivel/leetcode/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/pranavjothivel/leetcode/tree/master/0412-fizz-buzz) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/pranavjothivel/leetcode/tree/master/2556-convert-the-temperature) |
 ## Array
@@ -39,6 +40,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranavjothivel/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/pranavjothivel/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/pranavjothivel/leetcode/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/pranavjothivel/leetcode/tree/master/0412-fizz-buzz) |
 | [2128-reverse-prefix-of-word](https://github.com/pranavjothivel/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3379-score-of-a-string](https://github.com/pranavjothivel/leetcode/tree/master/3379-score-of-a-string) |
 ## Stack
@@ -102,5 +104,6 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/pranavjothivel/leetcode/tree/master/0412-fizz-buzz) |
 | [2551-apply-operations-to-an-array](https://github.com/pranavjothivel/leetcode/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
