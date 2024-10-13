@@ -10,6 +10,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | ------- |
 | [0009-palindrome-number](https://github.com/pranavjothivel/leetcode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/pranavjothivel/leetcode/tree/master/0412-fizz-buzz) |
+| [1610-xor-operation-in-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/pranavjothivel/leetcode/tree/master/2556-convert-the-temperature) |
 ## Array
@@ -74,6 +75,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pranavjothivel/leetcode/tree/master/0136-single-number) |
+| [1610-xor-operation-in-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## String Matching
 |  |
 | ------- |
