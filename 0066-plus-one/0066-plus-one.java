@@ -7,6 +7,7 @@ class Solution {
             }
             digits[i] = 0;
         }
+        // edge case for numbers like 999
         int[] newDigits = new int[digits.length + 1];
         newDigits[0] = 1;
         return newDigits;
