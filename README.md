@@ -126,17 +126,21 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pranavjothivel/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/pranavjothivel/leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pranavjothivel/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/pranavjothivel/leetcode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pranavjothivel/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/pranavjothivel/leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pranavjothivel/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/pranavjothivel/leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
