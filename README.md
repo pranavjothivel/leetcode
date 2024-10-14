@@ -9,6 +9,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pranavjothivel/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/pranavjothivel/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/pranavjothivel/leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/pranavjothivel/leetcode/tree/master/0412-fizz-buzz) |
 | [1610-xor-operation-in-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -20,6 +21,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0001-two-sum](https://github.com/pranavjothivel/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranavjothivel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pranavjothivel/leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/pranavjothivel/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/pranavjothivel/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pranavjothivel/leetcode/tree/master/0169-majority-element) |
