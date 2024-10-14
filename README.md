@@ -34,6 +34,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0001-two-sum](https://github.com/pranavjothivel/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pranavjothivel/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranavjothivel/leetcode/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/pranavjothivel/leetcode/tree/master/0383-ransom-note) |
 | [3324-split-the-array](https://github.com/pranavjothivel/leetcode/tree/master/3324-split-the-array) |
 ## String
 |  |
@@ -43,6 +44,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0058-length-of-last-word](https://github.com/pranavjothivel/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/pranavjothivel/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/pranavjothivel/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/pranavjothivel/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/pranavjothivel/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/pranavjothivel/leetcode/tree/master/0412-fizz-buzz) |
 | [1205-defanging-an-ip-address](https://github.com/pranavjothivel/leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -76,6 +78,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pranavjothivel/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/pranavjothivel/leetcode/tree/master/0383-ransom-note) |
 | [3324-split-the-array](https://github.com/pranavjothivel/leetcode/tree/master/3324-split-the-array) |
 ## Bit Manipulation
 |  |
