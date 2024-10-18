@@ -24,3 +24,5 @@ class Solution:
         # Add the value of the last character since loop iterates up to len(s) - 1
         roman_integer += symbols[s[-1]]
         return roman_integer
+        # Time: O(n)
+        # Space: O(1)
