@@ -10,16 +10,16 @@ class Solution:
             'D': 500, 
             'M': 1000
             }
-        for first_char, next_char in zip(s, s[1:]):
-            if (symbols[first_char] < symbols[next_char]):
-                roman_integer -= symbols[first_char]
-            else:
-                roman_integer += symbols[first_char]
-        # for i in range(len(s) - 1):
-        #     if symbols[s[i]] < symbols[s[i + 1]]:
-        #         roman_integer -= symbols[s[i]]
+        # for first_char, next_char in zip(s, s[1:]):
+        #     if (symbols[first_char] < symbols[next_char]):
+        #         roman_integer -= symbols[first_char]
         #     else:
-        #         roman_integer += symbols[s[i]]
+        #         roman_integer += symbols[first_char]
+        for i in range(len(s) - 1):
+            if symbols[s[i]] < symbols[s[i + 1]]:
+                roman_integer -= symbols[s[i]]
+            else:
+                roman_integer += symbols[s[i]]
 
         # Add the value of the last character since loop iterates up to len(s) - 1
         roman_integer += symbols[s[-1]]
