@@ -46,6 +46,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranavjothivel/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/pranavjothivel/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/pranavjothivel/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranavjothivel/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/pranavjothivel/leetcode/tree/master/0058-length-of-last-word) |
@@ -157,4 +158,8 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0100-same-tree](https://github.com/pranavjothivel/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/pranavjothivel/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pranavjothivel/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
