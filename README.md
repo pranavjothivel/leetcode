@@ -25,6 +25,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0027-remove-element](https://github.com/pranavjothivel/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pranavjothivel/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pranavjothivel/leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/pranavjothivel/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pranavjothivel/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pranavjothivel/leetcode/tree/master/0169-majority-element) |
@@ -71,6 +72,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranavjothivel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pranavjothivel/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranavjothivel/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/pranavjothivel/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pranavjothivel/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/pranavjothivel/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -109,6 +111,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pranavjothivel/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pranavjothivel/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranavjothivel/leetcode/tree/master/0217-contains-duplicate) |
 ## Linked List
