@@ -8,6 +8,7 @@ class Solution {
         for (int i = 1; i < strs.length; i++) {
             while (strs[i].indexOf(lcp) != 0) {
                 lcp = lcp.substring(0, lcp.length() - 1);
+                
                 if (lcp.isEmpty()) {
                     return "";
                 }
