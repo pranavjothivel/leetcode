@@ -15,7 +15,7 @@
  */
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        List<Integer> list = new ArrayList<>();
+        List<Integer> list = new LinkedList<>();
         postorder(root, list);
         return list;
     }
