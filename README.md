@@ -65,6 +65,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0020-valid-parentheses](https://github.com/pranavjothivel/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/pranavjothivel/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/pranavjothivel/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Two Pointers
@@ -146,6 +147,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0100-same-tree](https://github.com/pranavjothivel/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/pranavjothivel/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -153,6 +155,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0100-same-tree](https://github.com/pranavjothivel/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/pranavjothivel/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -165,6 +168,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0100-same-tree](https://github.com/pranavjothivel/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/pranavjothivel/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Trie
 |  |
 | ------- |
