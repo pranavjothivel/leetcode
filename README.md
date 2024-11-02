@@ -14,6 +14,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0066-plus-one](https://github.com/pranavjothivel/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/pranavjothivel/leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/pranavjothivel/leetcode/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/pranavjothivel/leetcode/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/pranavjothivel/leetcode/tree/master/2556-convert-the-temperature) |
@@ -134,6 +135,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0206-reverse-linked-list](https://github.com/pranavjothivel/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/pranavjothivel/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/pranavjothivel/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/pranavjothivel/leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -144,6 +146,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/pranavjothivel/leetcode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/pranavjothivel/leetcode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -177,4 +180,8 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pranavjothivel/leetcode/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/pranavjothivel/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
