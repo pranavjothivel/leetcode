@@ -94,6 +94,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | ------- |
 | [0035-search-insert-position](https://github.com/pranavjothivel/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/pranavjothivel/leetcode/tree/master/0278-first-bad-version) |
 ## Counting
 |  |
 | ------- |
@@ -187,4 +188,8 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/pranavjothivel/leetcode/tree/master/1013-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/pranavjothivel/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
