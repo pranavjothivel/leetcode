@@ -35,6 +35,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [1944-truncate-sentence](https://github.com/pranavjothivel/leetcode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/pranavjothivel/leetcode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/pranavjothivel/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/pranavjothivel/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3324-split-the-array](https://github.com/pranavjothivel/leetcode/tree/master/3324-split-the-array) |
 ## Hash Table
@@ -62,6 +63,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [1205-defanging-an-ip-address](https://github.com/pranavjothivel/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1944-truncate-sentence](https://github.com/pranavjothivel/leetcode/tree/master/1944-truncate-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/pranavjothivel/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/pranavjothivel/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/pranavjothivel/leetcode/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
@@ -141,6 +143,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | ------- |
 | [0412-fizz-buzz](https://github.com/pranavjothivel/leetcode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/pranavjothivel/leetcode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/pranavjothivel/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/pranavjothivel/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
