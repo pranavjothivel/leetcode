@@ -32,6 +32,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0169-majority-element](https://github.com/pranavjothivel/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranavjothivel/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pranavjothivel/leetcode/tree/master/0283-move-zeroes) |
+| [1293-three-consecutive-odds](https://github.com/pranavjothivel/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1944-truncate-sentence](https://github.com/pranavjothivel/leetcode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/pranavjothivel/leetcode/tree/master/2058-concatenation-of-array) |
