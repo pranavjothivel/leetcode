@@ -10,3 +10,5 @@ class Solution:
         for l in t:
             freq_t[l] = freq_t.get(l, 0) + 1
         return freq_s == freq_t
+        # time: O(m + n)
+        # space: O(1)
