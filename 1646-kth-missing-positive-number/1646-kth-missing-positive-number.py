@@ -3,7 +3,7 @@ class Solution:
         missing_nums = []
         counter = 1
         hashset = set(arr)
-        while (len(missing_nums) < k):
+        while (len(missing_nums) <= k):
             if counter not in hashset:
                 missing_nums.append(counter)
             counter += 1
