@@ -33,6 +33,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0217-contains-duplicate](https://github.com/pranavjothivel/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pranavjothivel/leetcode/tree/master/0283-move-zeroes) |
 | [1293-three-consecutive-odds](https://github.com/pranavjothivel/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1646-kth-missing-positive-number](https://github.com/pranavjothivel/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1944-truncate-sentence](https://github.com/pranavjothivel/leetcode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/pranavjothivel/leetcode/tree/master/2058-concatenation-of-array) |
@@ -100,6 +101,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0035-search-insert-position](https://github.com/pranavjothivel/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/pranavjothivel/leetcode/tree/master/0278-first-bad-version) |
+| [1646-kth-missing-positive-number](https://github.com/pranavjothivel/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Counting
 |  |
 | ------- |
