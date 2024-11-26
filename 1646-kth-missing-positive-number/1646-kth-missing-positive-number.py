@@ -1,12 +1,10 @@
 class Solution:
     def findKthPositive(self, arr: List[int], k: int) -> int:
-        missing_count = 0
-        current = 1
+        missing_nums = []
+        counter = 1
         hashset = set(arr)
-
-        while True:
-            if current not in hashset:
-                missing_count += 1
-                if missing_count == k:
-                    return current
-            current += 1
+        while (len(missing_nums) <= k):
+            if counter not in hashset:
+                missing_nums.append(counter)
+            counter += 1
+        return missing_nums[k-1]
