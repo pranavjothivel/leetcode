@@ -8,3 +8,5 @@ class Solution:
                 ans = n
                 # print(ans)
         return ans
+    # O(1) space
+    # O(n) time
