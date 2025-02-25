@@ -39,6 +39,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [1950-sign-of-the-product-of-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/pranavjothivel/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranavjothivel/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2350-find-closest-number-to-zero](https://github.com/pranavjothivel/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/pranavjothivel/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3324-split-the-array](https://github.com/pranavjothivel/leetcode/tree/master/3324-split-the-array) |
 ## Hash Table
