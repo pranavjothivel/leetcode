@@ -1,13 +1,10 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
-        result = ""
-        word1_list = list(word1)
-        word2_list = list(word2) 
-
-        while word1_list and word2_list: 
-            result += word1_list.pop(0) 
-            result += word2_list.pop(0) 
-
-        result += ''.join(word1_list)
-        result += ''.join(word2_list)
-        return result
+        i = 0
+        res = ""
+        while (i < len(word1) and i < len(word2)):
+            res += word1[i]
+            res += word2[i]
+            i += 1
+        res += word1[i:len(word1)] if i < len(word1) else word2[i:len(word2)]
+        return res
