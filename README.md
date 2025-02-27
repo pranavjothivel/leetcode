@@ -31,6 +31,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0136-single-number](https://github.com/pranavjothivel/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pranavjothivel/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pranavjothivel/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pranavjothivel/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pranavjothivel/leetcode/tree/master/0283-move-zeroes) |
 | [1293-three-consecutive-odds](https://github.com/pranavjothivel/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -129,12 +130,14 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | ------- |
 | [0169-majority-element](https://github.com/pranavjothivel/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/pranavjothivel/leetcode/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pranavjothivel/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pranavjothivel/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/pranavjothivel/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pranavjothivel/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pranavjothivel/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pranavjothivel/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranavjothivel/leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -217,4 +220,12 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/pranavjothivel/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pranavjothivel/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pranavjothivel/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
