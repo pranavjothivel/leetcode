@@ -44,6 +44,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [2350-find-closest-number-to-zero](https://github.com/pranavjothivel/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/pranavjothivel/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3324-split-the-array](https://github.com/pranavjothivel/leetcode/tree/master/3324-split-the-array) |
+| [3334-apple-redistribution-into-boxes](https://github.com/pranavjothivel/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0215-kth-largest-element-in-an-array](https://github.com/pranavjothivel/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pranavjothivel/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranavjothivel/leetcode/tree/master/0242-valid-anagram) |
+| [3334-apple-redistribution-into-boxes](https://github.com/pranavjothivel/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Linked List
 |  |
 | ------- |
@@ -228,4 +230,8 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranavjothivel/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [3334-apple-redistribution-into-boxes](https://github.com/pranavjothivel/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
