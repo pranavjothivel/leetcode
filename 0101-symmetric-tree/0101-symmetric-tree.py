@@ -7,7 +7,7 @@
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
         def helper(left, right):
-            if left == None and right == None:
+            if left == right:
                 return True
             if left == None or right == None:
                 return False
