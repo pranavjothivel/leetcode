@@ -17,6 +17,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [1013-fibonacci-number](https://github.com/pranavjothivel/leetcode/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/pranavjothivel/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2556-convert-the-temperature](https://github.com/pranavjothivel/leetcode/tree/master/2556-convert-the-temperature) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pranavjothivel/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
@@ -166,6 +167,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0412-fizz-buzz](https://github.com/pranavjothivel/leetcode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/pranavjothivel/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranavjothivel/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/pranavjothivel/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/pranavjothivel/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pranavjothivel/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
