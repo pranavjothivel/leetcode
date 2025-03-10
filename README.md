@@ -13,6 +13,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0013-roman-to-integer](https://github.com/pranavjothivel/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/pranavjothivel/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/pranavjothivel/leetcode/tree/master/0231-power-of-two) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pranavjothivel/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/pranavjothivel/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/pranavjothivel/leetcode/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -36,6 +37,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0215-kth-largest-element-in-an-array](https://github.com/pranavjothivel/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pranavjothivel/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pranavjothivel/leetcode/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pranavjothivel/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1293-three-consecutive-odds](https://github.com/pranavjothivel/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/pranavjothivel/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1646-kth-missing-positive-number](https://github.com/pranavjothivel/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -59,6 +61,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0169-majority-element](https://github.com/pranavjothivel/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranavjothivel/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranavjothivel/leetcode/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pranavjothivel/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/pranavjothivel/leetcode/tree/master/0383-ransom-note) |
 | [2169-simple-bank-system](https://github.com/pranavjothivel/leetcode/tree/master/2169-simple-bank-system) |
 | [3324-split-the-array](https://github.com/pranavjothivel/leetcode/tree/master/3324-split-the-array) |
@@ -263,5 +266,10 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/pranavjothivel/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2169-simple-bank-system](https://github.com/pranavjothivel/leetcode/tree/master/2169-simple-bank-system) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/pranavjothivel/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
