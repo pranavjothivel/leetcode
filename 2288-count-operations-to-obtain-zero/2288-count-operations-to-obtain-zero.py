@@ -9,3 +9,6 @@ class Solution:
                 num2 -= num1
             ops += 1
         return ops
+
+# time: O(log(max(num1, num2)))
+# space: O(1)
