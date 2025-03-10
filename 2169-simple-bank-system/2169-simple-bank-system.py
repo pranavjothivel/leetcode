@@ -39,10 +39,3 @@ class Bank:
     
     def check_account_balance(self, a, amt):
         return self.check_account_number(a) and self.bank_balance[a - 1] >= amt
-
-
-# Your Bank object will be instantiated and called as such:
-# obj = Bank(balance)
-# param_1 = obj.transfer(account1,account2,money)
-# param_2 = obj.deposit(account,money)
-# param_3 = obj.withdraw(account,money)
