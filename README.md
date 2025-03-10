@@ -43,6 +43,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [1950-sign-of-the-product-of-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/pranavjothivel/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranavjothivel/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/pranavjothivel/leetcode/tree/master/2169-simple-bank-system) |
 | [2350-find-closest-number-to-zero](https://github.com/pranavjothivel/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/pranavjothivel/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3324-split-the-array](https://github.com/pranavjothivel/leetcode/tree/master/3324-split-the-array) |
@@ -59,6 +60,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0217-contains-duplicate](https://github.com/pranavjothivel/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranavjothivel/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/pranavjothivel/leetcode/tree/master/0383-ransom-note) |
+| [2169-simple-bank-system](https://github.com/pranavjothivel/leetcode/tree/master/2169-simple-bank-system) |
 | [3324-split-the-array](https://github.com/pranavjothivel/leetcode/tree/master/3324-split-the-array) |
 ## String
 |  |
@@ -173,6 +175,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0412-fizz-buzz](https://github.com/pranavjothivel/leetcode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/pranavjothivel/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranavjothivel/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/pranavjothivel/leetcode/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/pranavjothivel/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/pranavjothivel/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pranavjothivel/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -257,4 +260,8 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pranavjothivel/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/pranavjothivel/leetcode/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
