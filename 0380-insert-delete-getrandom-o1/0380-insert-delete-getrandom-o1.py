@@ -15,7 +15,12 @@ class RandomizedSet:
         if val not in self.internal_set:
             return False
         self.internal_set.remove(val)
-        self.internal_list.remove(val)
+        
+        index = self.internal_list.index(val)
+        last = self.internal_list[-1]
+        self.internal_list[index] = last
+        self.internal_list.pop()
+
         return True
 
     def getRandom(self) -> int:
