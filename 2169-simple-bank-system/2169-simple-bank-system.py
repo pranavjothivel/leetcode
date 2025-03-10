@@ -2,7 +2,7 @@ class Bank:
     bank_balance = None
 
     def __init__(self, balance: List[int]):
-        self.bank_balance = balance.copy()
+        self.bank_balance = balance
 
     def transfer(self, account1: int, account2: int, money: int) -> bool:
         if not self.check_account_number(account1) or not self.check_account_number(account2):
