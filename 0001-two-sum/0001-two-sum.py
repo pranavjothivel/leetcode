@@ -6,3 +6,6 @@ class Solution:
         if compliment in hmap:
             return [index, hmap[compliment]]
         hmap[num] = index  
+
+        # time: O(N)
+        # space: O(N)
