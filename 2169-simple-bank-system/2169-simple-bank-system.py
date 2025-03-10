@@ -35,7 +35,7 @@ class Bank:
     
     def check_account_number(self, a):
         n = len(self.bank_balance)
-        return True if a >= 1 and a <= n else False
+        return 1 <= a <= len(self.bank_balance)
     
     def check_account_balance(self, a, amt):
         return self.check_account_number(a) and self.bank_balance[a - 1] >= amt
