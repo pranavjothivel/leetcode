@@ -27,6 +27,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0001-two-sum](https://github.com/pranavjothivel/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranavjothivel/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pranavjothivel/leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/pranavjothivel/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/pranavjothivel/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/pranavjothivel/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pranavjothivel/leetcode/tree/master/0056-merge-intervals) |
@@ -118,6 +119,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/pranavjothivel/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/pranavjothivel/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/pranavjothivel/leetcode/tree/master/0278-first-bad-version) |
