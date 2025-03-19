@@ -24,12 +24,10 @@ class Bank:
         self.bank_balance[account - 1] += money
         return True
         
-
     def withdraw(self, account: int, money: int) -> bool:
         if not self.check_account_number(account) or not self.check_account_balance(account, money):
             return False
         
-
         self.bank_balance[account - 1] -= money
         return True
     
