@@ -207,6 +207,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0112-path-sum](https://github.com/pranavjothivel/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/pranavjothivel/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -217,6 +218,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0112-path-sum](https://github.com/pranavjothivel/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/pranavjothivel/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -236,6 +238,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0112-path-sum](https://github.com/pranavjothivel/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/pranavjothivel/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Trie
 |  |
 | ------- |
