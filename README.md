@@ -86,6 +86,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0383-ransom-note](https://github.com/pranavjothivel/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/pranavjothivel/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/pranavjothivel/leetcode/tree/master/0412-fizz-buzz) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pranavjothivel/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/pranavjothivel/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/pranavjothivel/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/pranavjothivel/leetcode/tree/master/1944-truncate-sentence) |
@@ -101,6 +102,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0144-binary-tree-preorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pranavjothivel/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/pranavjothivel/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pranavjothivel/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/pranavjothivel/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
