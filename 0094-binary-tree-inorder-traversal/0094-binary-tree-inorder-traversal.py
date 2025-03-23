@@ -21,3 +21,4 @@ class Solution:
         return inorder(root)
 
         # O(n) - space and time
+        
