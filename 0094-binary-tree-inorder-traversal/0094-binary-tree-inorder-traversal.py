@@ -19,3 +19,5 @@ class Solution:
                 return []
             return inorder(node.left) + [node.val] + inorder(node.right)
         return inorder(root)
+
+        # O(n) - space and time
