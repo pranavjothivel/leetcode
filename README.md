@@ -41,6 +41,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0217-contains-duplicate](https://github.com/pranavjothivel/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pranavjothivel/leetcode/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pranavjothivel/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0932-monotonic-array](https://github.com/pranavjothivel/leetcode/tree/master/0932-monotonic-array) |
 | [1293-three-consecutive-odds](https://github.com/pranavjothivel/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/pranavjothivel/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1646-kth-missing-positive-number](https://github.com/pranavjothivel/leetcode/tree/master/1646-kth-missing-positive-number) |
