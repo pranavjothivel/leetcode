@@ -17,6 +17,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0380-insert-delete-getrandom-o1](https://github.com/pranavjothivel/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/pranavjothivel/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/pranavjothivel/leetcode/tree/master/1013-fibonacci-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/pranavjothivel/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/pranavjothivel/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/pranavjothivel/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -43,6 +44,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0380-insert-delete-getrandom-o1](https://github.com/pranavjothivel/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0932-monotonic-array](https://github.com/pranavjothivel/leetcode/tree/master/0932-monotonic-array) |
 | [1293-three-consecutive-odds](https://github.com/pranavjothivel/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/pranavjothivel/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/pranavjothivel/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1646-kth-missing-positive-number](https://github.com/pranavjothivel/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1944-truncate-sentence](https://github.com/pranavjothivel/leetcode/tree/master/1944-truncate-sentence) |
