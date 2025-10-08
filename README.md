@@ -53,6 +53,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranavjothivel/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/pranavjothivel/leetcode/tree/master/2169-simple-bank-system) |
 | [2350-find-closest-number-to-zero](https://github.com/pranavjothivel/leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/pranavjothivel/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/pranavjothivel/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3324-split-the-array](https://github.com/pranavjothivel/leetcode/tree/master/3324-split-the-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/pranavjothivel/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -124,6 +125,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0908-middle-of-the-linked-list](https://github.com/pranavjothivel/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/pranavjothivel/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/pranavjothivel/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/pranavjothivel/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/pranavjothivel/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
@@ -133,6 +135,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/pranavjothivel/leetcode/tree/master/0278-first-bad-version) |
 | [1646-kth-missing-positive-number](https://github.com/pranavjothivel/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/pranavjothivel/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
 | ------- |
@@ -166,6 +169,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0215-kth-largest-element-in-an-array](https://github.com/pranavjothivel/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pranavjothivel/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranavjothivel/leetcode/tree/master/0242-valid-anagram) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/pranavjothivel/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3334-apple-redistribution-into-boxes](https://github.com/pranavjothivel/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Linked List
 |  |
