@@ -59,6 +59,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [2551-apply-operations-to-an-array](https://github.com/pranavjothivel/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3324-split-the-array](https://github.com/pranavjothivel/leetcode/tree/master/3324-split-the-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/pranavjothivel/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/pranavjothivel/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Hash Table
 |  |
 | ------- |
@@ -282,6 +283,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/pranavjothivel/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/pranavjothivel/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
