@@ -35,6 +35,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | [0049-group-anagrams](https://github.com/pranavjothivel/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pranavjothivel/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/pranavjothivel/leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/pranavjothivel/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/pranavjothivel/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pranavjothivel/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -137,6 +138,7 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pranavjothivel/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/pranavjothivel/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/pranavjothivel/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranavjothivel/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/pranavjothivel/leetcode/tree/master/0278-first-bad-version) |
 | [1646-kth-missing-positive-number](https://github.com/pranavjothivel/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -326,4 +328,8 @@ a collection of my LeetCode solutions. published from leetcode to github via lee
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/pranavjothivel/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/pranavjothivel/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
